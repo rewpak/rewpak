@@ -19,6 +19,9 @@
 ###
 
 <p align="left">I’m a Master’s graduate in Artificial Intelligence, currently living in London. About a year ago, I decided to shift my path from Electrical Engineering to AI — and it’s been one of the best decisions I’ve made. I’m genuinely passionate about machine learning and deep learning, and I enjoy every part of the process — from data preparation and model training to fine-tuning and evaluation. I especially love working with CNNs, DNNs, and transformers. I truly believe AI has the power to improve lives, especially in fields like healthcare.
-  I’m currently focused on the production side of AI — learning how to deploy models, build efficient ML pipelines, work with cloud technologies, and optimize performance. I’m excited about creating real-world AI products and always open to new ideas, collaborations, and meaningful projects.<br><br>
+
+I’m currently focused on the production side of AI — learning how to deploy models, build efficient ML pipelines, work with cloud technologies, and optimize performance. I’m excited about creating real-world AI products and always open to new ideas, collaborations, and meaningful projects.<br><br>
+
 ###
+
 
