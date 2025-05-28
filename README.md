@@ -29,7 +29,7 @@ I’m currently focused on the production side of AI — learning how to deploy 
 - 💬 Ask me about LOTR, Anime or anithing.
 - ⚡ Fun fact: I switched from Electrical Engineering to AI!
 
-![rewpak's GitHub stats](https://github-readme-stats.vercel.app/api?username=rewpak&show_icons=true&title_color=39ff14&icon_color=00f9ff&text_color=c0c0c0&bg_color=000000)
+
 
 
 
