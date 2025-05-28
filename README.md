@@ -23,7 +23,7 @@
 I’m currently focused on the production side of AI — learning how to deploy models, build efficient ML pipelines, work with cloud technologies, and optimize performance. I’m excited about creating real-world AI products and always open to new ideas, collaborations, and meaningful projects.<br><br>
 
 
-- 🌱 I’m currently learning Python, SQL, and cloud tools. <img align="right" src="./assets/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="300" />
+- 🌱 I’m currently learning Python, SQL, and cloud tools. <img align="right" src="./assets/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="300" />
 - 🔭 I'm exploring how to build real-world AI products.
 - 🎯 I enjoy solving ML problems end to end.
 - 💬 Ask me about fountain pens.
