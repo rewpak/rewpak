@@ -22,7 +22,6 @@
 
 🚀 These days I’m exploring how to bring models into production: learning about deployment, building ML/AI pipelines, using cloud tools, and making things run smoothly and efficiently.
 
-💡 I’m all about building real-world AI products and always excited to jump into new projects and ideas. Let’s connect and create something awesome together!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
-
+💡 I’m all about building real-world AI products and always excited to jump into new projects and ideas. Let’s connect and create something awesome together!<br><br>
 ###
 
