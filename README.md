@@ -28,13 +28,13 @@ I’m currently focused on the production side of AI — learning how to deploy 
   <tr>
     <td valign="top" style="padding-right: 20px;">
 
-<ul align="left">
-  <li>🌱 I’m currently learning Python, SQL, and cloud tools.</li>
-  <li>🛠 I'm exploring how to build real-world AI products.</li>
-  <li>🎯 I enjoy solving ML problems end to end.</li>
-  <li>💬 Ask me about CNNs, transformers, and model tuning!</li>
-  <li>⚡ Fun fact: I switched from Electrical Engineering to AI!</li>
-</ul>
+      <ul>
+        <li>🌱 I’m currently learning Python, SQL, and cloud tools.</li>
+        <li>🛠 I'm exploring how to build real-world AI products.</li>
+        <li>🎯 I enjoy solving ML problems end to end.</li>
+        <li>💬 Ask me about CNNs, transformers, and model tuning!</li>
+        <li>⚡ Fun fact: I switched from Electrical Engineering to AI!</li>
+      </ul>
 
     </td>
     <td>
@@ -42,5 +42,7 @@ I’m currently focused on the production side of AI — learning how to deploy 
     </td>
   </tr>
 </table>
+
+###
 
 
