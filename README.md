@@ -43,5 +43,4 @@ I’m currently focused on the production side of AI — learning how to deploy 
   </tr>
 </table>
 
-###
 
