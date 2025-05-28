@@ -10,6 +10,14 @@
 
 ###
 
+<h1 align="center">
+  Hello!
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" style="vertical-align: middle;" />
+  My name is Andrey!
+</h1>
+
+###
+
 <h3 align="left">🧑🏻‍💻 About Me </h3>
 
 ###
