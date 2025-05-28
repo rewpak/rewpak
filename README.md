@@ -18,10 +18,7 @@
 
 ###
 
-<p align="left">🎓 I’ve completed a Master’s in Artificial Intelligence at Brunel University London. I’m really into machine learning — especially deep learning! Love working with neural networks, CNNs, RNNs, transformers, and all that good stuff. From prepping data to training and tweaking models — that’s my jam.
-
-🚀 These days I’m exploring how to bring models into production: learning about deployment, building ML/AI pipelines, using cloud tools, and making things run smoothly and efficiently.
-
-💡 I’m all about building real-world AI products and always excited to jump into new projects and ideas. Let’s connect and create something awesome together!<br><br>
+<p align="left">I’m a Master’s graduate in Artificial Intelligence, currently living in London. About a year ago, I decided to shift my path from Electrical Engineering to AI — and it’s been one of the best decisions I’ve made. I’m genuinely passionate about machine learning and deep learning, and I enjoy every part of the process — from data preparation and model training to fine-tuning and evaluation. I especially love working with CNNs, DNNs, and transformers. I truly believe AI has the power to improve lives, especially in fields like healthcare.
+  I’m currently focused on the production side of AI — learning how to deploy models, build efficient ML pipelines, work with cloud technologies, and optimize performance. I’m excited about creating real-world AI products and always open to new ideas, collaborations, and meaningful projects.<br><br>
 ###
 
