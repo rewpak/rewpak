@@ -26,21 +26,21 @@ I’m currently focused on the production side of AI — learning how to deploy 
 
 <table>
   <tr>
-    <td>
+    <td valign="top" style="padding-right: 20px;">
 
-<ul>
-  <li>🌱 I’m currently learning HTML, CSS, Python, and C++.</li>
-  <li>🛠 I’m working on building projects and growing as a developer.</li>
-  <li>🎨 I like to draw, read, and explore new tech in my free time.</li>
-  <li>💬 Ask me about AI and neural networks!</li>
+<ul align="left">
+  <li>🌱 I’m currently learning Python, SQL, and cloud tools.</li>
+  <li>🛠 I'm exploring how to build real-world AI products.</li>
+  <li>🎯 I enjoy solving ML problems end to end.</li>
+  <li>💬 Ask me about CNNs, transformers, and model tuning!</li>
   <li>⚡ Fun fact: I switched from Electrical Engineering to AI!</li>
 </ul>
 
-</td>
-<td>
-  <img src="./assets/your-gif-name.gif" width="250"/>
-</td>
-</tr>
+    </td>
+    <td>
+      <img src="./assets/your-gif.gif" width="250" />
+    </td>
+  </tr>
 </table>
 
 ###
