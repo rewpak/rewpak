@@ -24,11 +24,11 @@ I’m currently focused on the production side of AI — learning how to deploy 
 
 ###
 
-- 🌱 I’m currently learning HTML, CSS, Python, and C++.
-- 🔭 I’m currently working on creating webpages and learning how to progam.
-- 😀 I like to crochet, code, read, and draw in my free time.
+- 🌱 I’m currently learning Python, SQL, and cloud tools.
+- 🔭 I'm exploring how to build real-world AI products.
+- 🎯 I enjoy solving ML problems end to end.
 - 💬 Ask me about fountain pens.
-- ⚡ Fun fact: My first line of code was not "Hello World!"
+- ⚡ Fun fact: I switched from Electrical Engineering to AI!
 
 ###
 
