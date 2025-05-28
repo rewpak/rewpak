@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" width="950" src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img height="400" width="950" src="./assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
 ###
@@ -24,4 +24,24 @@ I’m currently focused on the production side of AI — learning how to deploy 
 
 ###
 
+<table>
+  <tr>
+    <td>
+
+<ul>
+  <li>🌱 I’m currently learning HTML, CSS, Python, and C++.</li>
+  <li>🛠 I’m working on building projects and growing as a developer.</li>
+  <li>🎨 I like to draw, read, and explore new tech in my free time.</li>
+  <li>💬 Ask me about AI and neural networks!</li>
+  <li>⚡ Fun fact: I switched from Electrical Engineering to AI!</li>
+</ul>
+
+</td>
+<td>
+  <img src="./assets/your-gif-name.gif" width="250"/>
+</td>
+</tr>
+</table>
+
+###
 
